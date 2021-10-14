@@ -1,6 +1,6 @@
 ---
 title: 'Mes ouvrages'
-description: Mes ouvrages
+description: Mes ouvrages, vidéos et livres
 image: /books.jpg
 date: 2021-08-15T11:11:11+01:00
 ---

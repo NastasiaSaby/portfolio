@@ -1,6 +1,6 @@
 ---
 title: 'A propos'
-description: A propos
+description: Autrice pour les éditions ENI, j'aime partager mon savoir au plus grand nombre.
 image: /me.jpg
 date: 2021-08-01T11:11:11+01:00
 ---
