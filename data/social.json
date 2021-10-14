@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/saby_nastasia",
+        "html_class": "twitter"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/nastasia-saby-b4220132/",
+        "html_class": "linkedin"
+    },
+     {
+        "name": "ML in real life",
+        "link": "https://mlinreallife.github.io/",
+        "html_class": "github"
+    }
+]
