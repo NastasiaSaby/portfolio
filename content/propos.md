@@ -1,6 +1,6 @@
 ---
 title: 'A propos'
-description: Autrice pour les éditions ENI, j'aime partager mon savoir au plus grand nombre. J'ai notamment à coeur de vulgariser l'intelligence artificielle.
+description: Autrice pour les éditions ENI, j'aime partager mon savoir au plus grand nombre. J'ai à coeur de vulgariser l'intelligence artificielle.
 image: /me.jpg
 date: 2021-08-01T11:11:11+01:00
 ---

@@ -23,3 +23,11 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin main --force
+
+cd ../
+
+git add .
+
+git commit -m "New release"
+
+git push origin main --force
